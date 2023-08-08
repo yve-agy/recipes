@@ -4,4 +4,4 @@ Ingedeients:
 - salt
 - lime
 
-
+- Add all together then mash 
